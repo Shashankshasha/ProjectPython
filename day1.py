@@ -1,10 +1,10 @@
 # # band generator
 #
-# print("Welcome to the band name generator")
-# CityName = input(str("Name of the city: "))
-# Petname = input(str("Whats your pet name: "))
-# print(f"Your band name is {CityName}{Petname}")
-#
+print("Welcome to the band name generator")
+CityName = input(str("Name of the city: "))
+Petname = input(str("Whats your pet name: "))
+print(f"Your band name is {CityName}{Petname}")
+
 
 # Quiz for nuber change:
 
